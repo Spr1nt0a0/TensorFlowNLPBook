@@ -7,4 +7,4 @@ Code and data accompanying Natural Language Processing with TensorFlow.
 1.2.1 [Word2Vec-Skipgram-Tensor](https://github.com/Spr1nt0a0/TensorFlowNLPBook/blob/master/Chapter%201/1.2.1%20Word2Vec-Skipgram-Tensor(NCE_loss).py)(NCE_loss)   
 1.2.2 [Word2Vec-Skipgram-Tensor](https://github.com/Spr1nt0a0/TensorFlowNLPBook/blob/master/Chapter%201/1.2.2%20Word2Vec-Skipgram-Tensor(Softmax).py)(Softmax)   
 * Chapter 2:CNN(Convolutional Neural Network)   
-2.1 [TextCNN]()(Binary Sentiment Classification)
+2.1 [TextCNN](https://github.com/Spr1nt0a0/TensorFlowNLPBook/blob/master/Chapter%202/2.1%20TextCNN.py)(Binary Sentiment Classification)
